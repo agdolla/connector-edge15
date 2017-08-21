@@ -1,5 +1,7 @@
 # Edge 15 connector
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sonarwhal/edge15-connector.svg)](https://greenkeeper.io/)
+
 A connector to use [edge diagnostics adapter](https://github.com/Microsoft/edge-diagnostics-adapter)
 in sonar.
 
